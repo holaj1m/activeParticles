@@ -1,6 +1,8 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Primer commit del repositorio de partículas activas" << std::endl;
+    int *posX{nullptr}, *posY{nullptr};
+    double *angle{nullptr};
+    std::cout << "Primer commit del repositorio de partículas activas :D" << std::endl;
     return 0;
 }
